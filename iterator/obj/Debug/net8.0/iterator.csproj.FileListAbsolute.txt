@@ -1,0 +1,14 @@
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/bin/Debug/net8.0/iterator
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/bin/Debug/net8.0/iterator.deps.json
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/bin/Debug/net8.0/iterator.runtimeconfig.json
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/bin/Debug/net8.0/iterator.dll
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/bin/Debug/net8.0/iterator.pdb
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.AssemblyInfoInputs.cache
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.AssemblyInfo.cs
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.csproj.CoreCompileInputs.cache
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.dll
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/refint/iterator.dll
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.pdb
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/iterator.genruntimeconfig.cache
+/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/Debug/net8.0/ref/iterator.dll
