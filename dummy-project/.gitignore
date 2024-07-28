@@ -408,3 +408,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Extra
+/bin/
+/obj/
+/[Dd]ebug/
+/[Rr]elease/
+**/bin/
+**/obj/
+**/[Dd]ebug/
+**/[Rr]elease/

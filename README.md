@@ -27,3 +27,13 @@ Configure app.name.csproj as follow:
 ```
 dotnet --version
 ```
+
+
+## Depndency Management
+
+TODO:
+
+* https://learn.microsoft.com/en-us/nuget/concepts/dependency-resolution
+* https://learn.microsoft.com/en-us/nuget/consume-packages/packages-and-source-control
+* https://fossa.com/blog/dependency-management-visual-studio-nuget-beyond/
+* https://www.youtube.com/watch?v=6qoW90eEBMQ

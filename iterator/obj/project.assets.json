@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/lukasznowakiewicz/.nuget/packages/": {}
+    "/Users/training/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/iterator.csproj",
+      "projectUniqueName": "/Users/training/workspace/design-patterns/iterator/iterator.csproj",
       "projectName": "iterator",
-      "projectPath": "/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/iterator.csproj",
-      "packagesPath": "/Users/lukasznowakiewicz/.nuget/packages/",
-      "outputPath": "/Users/lukasznowakiewicz/trainspace/design-patterns/iterator/obj/",
+      "projectPath": "/Users/training/workspace/design-patterns/iterator/iterator.csproj",
+      "packagesPath": "/Users/training/.nuget/packages/",
+      "outputPath": "/Users/training/workspace/design-patterns/iterator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lukasznowakiewicz/.nuget/NuGet/NuGet.Config"
+        "/Users/training/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
