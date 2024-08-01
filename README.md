@@ -28,6 +28,13 @@ Configure app.name.csproj as follow:
 dotnet --version
 ```
 
+## Other commands
+
+```
+dotnet build
+
+dotnet run
+```
 
 ## Depndency Management
 
@@ -37,3 +44,4 @@ TODO:
 * https://learn.microsoft.com/en-us/nuget/consume-packages/packages-and-source-control
 * https://fossa.com/blog/dependency-management-visual-studio-nuget-beyond/
 * https://www.youtube.com/watch?v=6qoW90eEBMQ
+* https://identitymodel.readthedocs.io/en/latest/index.html

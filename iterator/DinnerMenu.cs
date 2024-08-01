@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Iterator
 {
-   public class DinnerMenu {
+   public class DinnerMenu: Menu {
         const int MAX_ITEMS = 6;
         int numberOfItems = 0;
         MenuItem[] menuItems;

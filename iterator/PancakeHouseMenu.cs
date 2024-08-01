@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Iterator
 {
-    public class PancakeHouseMenu {
+    public class PancakeHouseMenu: Menu {
         List<MenuItem> menuItems;
 
         public PancakeHouseMenu() {

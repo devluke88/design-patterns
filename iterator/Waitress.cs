@@ -1,17 +1,17 @@
 using System;
 namespace Iterator {
     public class Waitress {
-        PancakeHouseMenu pancakeHouseMenu;
-        DinnerMenu dinnerMenu;
+        Menu pancakeHouseMenu;
+        Menu dinnerMenu;
 
-        public Waitress(PancakeHouseMenu pancakeHouseMenu, DinnerMenu dinnerMenu) {
+        public Waitress(Menu pancakeHouseMenu, Menu dinnerMenu) {
             this.pancakeHouseMenu = pancakeHouseMenu;
             this.dinnerMenu = dinnerMenu;
         }
 
         public void printMenu() {
-            Iterator pancakeIterator = pancakeHouseMenu.createIterator();
-            Iterator dinnerIterator = dinnerMenu.createIterator();
+            Iterator<MenuItem> pancakeIterator = pancakeHouseMenu.createIterator();
+            Iterator<MenuItem> dinnerIterator = dinnerMenu.createIterator();
 
             Console.WriteLine("MENU\n----\nBREAKFAST");
             printMenu(pancakeIterator);
